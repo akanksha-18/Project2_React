@@ -1,5 +1,5 @@
 .movie-container {
-    display: flex; /* Use flexbox for layout */
+    display: flex; 
     width: 80%;
     margin: 20px auto;
     border: 1px solid #ccc;
